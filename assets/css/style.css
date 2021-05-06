@@ -1,0 +1,27 @@
+body{
+    font-family: montserrat;
+}
+.hero{
+    background-image:url('../img/laprimavera.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding: 6.25rem 3.125rem;
+}
+
+h3{
+    font-family: permanent marker;
+}
+
+h4{
+    font-family: scope one;
+}
+
+.footer{
+    background-color: #0A16FA;
+    padding: 6.25rem 3.125rem;
+}
+
+.metroycincuenta{
+    font-weight: bold;
+}
