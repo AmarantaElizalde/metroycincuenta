@@ -1,11 +1,12 @@
 body{
     font-family: montserrat;
 }
+
 .hero{
     background-image:url('../img/laprimavera.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: left;
+    background-position: center;
     padding: 6.25rem 3.125rem;
 }
 
@@ -13,15 +14,43 @@ h3{
     font-family: permanent marker;
 }
 
+
 h4{
     font-family: scope one;
 }
 
+.la-experiencia{
+    font-size: 2rem;
+}
+
+h5{
+    font-family: scope one;
+    font-size: 2rem;
+}
+.nueva{
+    font-family: permanent marker;
+    letter-spacing: 1rem;
+}
+/*recuerda que kerning es distinto a tracking*/
+
+
+.header{
+ background-color: #FCBB25;
+ font-family: permanent marker;
+ text-align: center;
+ letter-spacing: 1rem;
+ padding: 5.25rem 3.125rem;
+}
+
+.pequeño{
+    font-weight: lighter;
+}
+
 .footer{
     background-color: #0A16FA;
-    padding: 6.25rem 3.125rem;
 }
 
 .metroycincuenta{
     font-weight: bold;
 }
+
